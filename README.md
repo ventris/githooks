@@ -1,2 +1,0 @@
-# githooks
-Useful hooks
